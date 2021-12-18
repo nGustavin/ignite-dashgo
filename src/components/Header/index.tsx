@@ -1,8 +1,8 @@
 import { Flex } from "@chakra-ui/react"
-import { Logo } from './Header/Logo'
-import { Notification } from "./Header/NotificationNav"
-import { Profile } from "./Header/Profile"
-import { Search } from './Header/Search'
+import { Logo } from './Logo'
+import { Notification } from "./NotificationNav"
+import { Profile } from "./Profile"
+import { Search } from './Search'
 
 export const Header: React.FC = () => {
   return(
